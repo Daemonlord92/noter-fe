@@ -1,0 +1,7 @@
+.flexxer {
+	display: flex;
+	flex-wrap: wrap;
+}
+.centered {
+	margin: 0 auto;
+}
